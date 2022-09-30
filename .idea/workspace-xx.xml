@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca9af419-8957-48cb-8ef1-736f917af5d7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2BmTf4LJ0NJUlE222TSlWvVbJER" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/13477/Documents/OneDrive - laosaonan2/code/c++/clion&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive - laosaonan2\code\c++\clion" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca9af419-8957-48cb-8ef1-736f917af5d7" name="Changes" comment="" />
+      <created>1657510362072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657510362072</updated>
+      <workItem from="1657510366251" duration="43000" />
+      <workItem from="1657510421917" duration="235000" />
+      <workItem from="1657510670942" duration="2246000" />
+      <workItem from="1657516200960" duration="14193000" />
+      <workItem from="1657541302915" duration="1036000" />
+      <workItem from="1657542353177" duration="928000" />
+      <workItem from="1657618163376" duration="3531000" />
+      <workItem from="1657730563926" duration="325000" />
+      <workItem from="1657733698290" duration="44000" />
+      <workItem from="1657859800340" duration="1132000" />
+      <workItem from="1657862857712" duration="11117000" />
+      <workItem from="1657956358187" duration="111000" />
+      <workItem from="1658118229468" duration="3183000" />
+      <workItem from="1658472632646" duration="6637000" />
+      <workItem from="1658496054580" duration="41000" />
+      <workItem from="1658507465640" duration="9000" />
+      <workItem from="1658548647119" duration="600000" />
+      <workItem from="1658551713000" duration="3076000" />
+      <workItem from="1658555319789" duration="2070000" />
+      <workItem from="1658558049747" duration="1718000" />
+      <workItem from="1658656300324" duration="17000" />
+      <workItem from="1658833108182" duration="1496000" />
+      <workItem from="1658915677656" duration="2708000" />
+      <workItem from="1659016848379" duration="286000" />
+      <workItem from="1659095349492" duration="4008000" />
+      <workItem from="1659159331924" duration="3930000" />
+      <workItem from="1659166048392" duration="54000" />
+      <workItem from="1659166115031" duration="721000" />
+      <workItem from="1659166853109" duration="2352000" />
+      <workItem from="1659169253740" duration="26000" />
+      <workItem from="1659169530600" duration="78000" />
+      <workItem from="1659169620813" duration="565000" />
+      <workItem from="1659325908168" duration="70000" />
+      <workItem from="1659326048574" duration="1498000" />
+      <workItem from="1659327570067" duration="5433000" />
+      <workItem from="1659333091125" duration="6846000" />
+      <workItem from="1659515956012" duration="8570000" />
+      <workItem from="1659590217080" duration="4105000" />
+      <workItem from="1659697009673" duration="629000" />
+      <workItem from="1659701849423" duration="191000" />
+      <workItem from="1659705363600" duration="3000" />
+      <workItem from="1659706369660" duration="29000" />
+      <workItem from="1659708287269" duration="205000" />
+      <workItem from="1659758662380" duration="16250000" />
+      <workItem from="1659874191431" duration="3101000" />
+      <workItem from="1659964257754" duration="753000" />
+      <workItem from="1660115349806" duration="3543000" />
+      <workItem from="1660133045143" duration="61000" />
+      <workItem from="1660133122784" duration="4899000" />
+      <workItem from="1660363884938" duration="12297000" />
+      <workItem from="1660535919641" duration="1545000" />
+      <workItem from="1660537618605" duration="4320000" />
+      <workItem from="1660586154277" duration="44000" />
+      <workItem from="1660586208858" duration="326000" />
+      <workItem from="1660586550695" duration="132000" />
+      <workItem from="1660586891456" duration="275000" />
+      <workItem from="1660587189831" duration="101000" />
+      <workItem from="1660587308126" duration="127000" />
+      <workItem from="1660587473796" duration="849000" />
+      <workItem from="1660710917744" duration="63000" />
+      <workItem from="1660711206290" duration="6788000" />
+      <workItem from="1660718066814" duration="1521000" />
+      <workItem from="1660824815221" duration="3993000" />
+      <workItem from="1660828861297" duration="2008000" />
+      <workItem from="1660886360680" duration="4620000" />
+      <workItem from="1660968211358" duration="766000" />
+      <workItem from="1660975965966" duration="1839000" />
+      <workItem from="1660978927797" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
